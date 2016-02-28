@@ -1,1 +1,1 @@
-# GoogleMapsWithJS
+Basic example about Google Maps
